@@ -62,7 +62,8 @@ ScrcpyGUI is a graphical user interface (GUI) implementation for `scrcpy`, a fre
    - Click "STOP SCRCPY" to stop the screen mirroring.
    - Click "Advanced Options" to configure additional settings.
   
-   - [](https://imgur.com/D2vz9ti)
+   - ![Screenshot from 2024-07-08 01-54-06](https://github.com/CrimsonREwind/scrcpygui-linux/assets/106526797/d3a2ff7c-b184-401c-9916-23b2b550451f)
+
 
 ## Advanced Options
 
