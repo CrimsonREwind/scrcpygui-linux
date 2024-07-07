@@ -47,6 +47,9 @@ ScrcpyGUI is a graphical user interface (GUI) implementation for `scrcpy`, a fre
 
    Follow the installation instructions from the [official `scrcpy` repository](https://github.com/Genymobile/scrcpy).
 
+or 
+
+you can download scrcpygui executable file from [Releases](https://github.com/CrimsonREwind/scrcpygui-linux/releases) 
 ## Usage
 
 1. **Run the application:**
