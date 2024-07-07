@@ -78,4 +78,4 @@ Contributions are welcome! If you have any suggestions, bug reports, or feature 
 
 ## License
 
-This project is licensed under the GNUv3.0 License. See the [LICENENSE](LICENSSE](LICENSE) file for more details.
+This project is licensed under the GNUv3.0 License. See the [LICENENSE](LICENSE) file for more details.
